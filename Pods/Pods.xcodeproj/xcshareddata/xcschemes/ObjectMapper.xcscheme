@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6397D7975349A03B5C2B9463A33A969E"
-               BuildableName = "Pods_ios_jenkins_demo.framework"
-               BlueprintName = "Pods-ios-jenkins-demo"
+               BlueprintIdentifier = "CD6C9FB6B052E1CF663F8A56041EA163"
+               BuildableName = "ObjectMapper.framework"
+               BlueprintName = "ObjectMapper"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6397D7975349A03B5C2B9463A33A969E"
-            BuildableName = "Pods_ios_jenkins_demo.framework"
-            BlueprintName = "Pods-ios-jenkins-demo"
+            BlueprintIdentifier = "CD6C9FB6B052E1CF663F8A56041EA163"
+            BuildableName = "ObjectMapper.framework"
+            BlueprintName = "ObjectMapper"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
